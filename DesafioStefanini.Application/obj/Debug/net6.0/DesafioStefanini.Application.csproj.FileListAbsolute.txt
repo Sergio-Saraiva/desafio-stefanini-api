@@ -1,0 +1,17 @@
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\bin\Debug\net6.0\DesafioStefanini.Application.deps.json
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\bin\Debug\net6.0\DesafioStefanini.Application.runtimeconfig.json
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\bin\Debug\net6.0\DesafioStefanini.Application.dll
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\bin\Debug\net6.0\DesafioStefanini.Application.pdb
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\bin\Debug\net6.0\DesafioStefanini.Domain.dll
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\bin\Debug\net6.0\DesafioStefanini.Domain.pdb
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.csproj.AssemblyReference.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.AssemblyInfoInputs.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.AssemblyInfo.cs
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.csproj.CoreCompileInputs.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.csproj.CopyComplete
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.dll
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\refint\DesafioStefanini.Application.dll
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.pdb
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\DesafioStefanini.Application.genruntimeconfig.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini.Application\obj\Debug\net6.0\ref\DesafioStefanini.Application.dll

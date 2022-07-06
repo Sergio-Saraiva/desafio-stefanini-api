@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioStefanini.API", "DesafioStefanini.API\DesafioStefanini.API.csproj", "{75FE57AC-DD23-4C9C-91CB-411004DF980F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioStefanini.Application", "DesafioStefanini.Application\DesafioStefanini.Application.csproj", "{1A11C69A-0B7A-42E7-9942-86F7F8F46C67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioStefanini.Domain", "DesafioStefanini.Domain\DesafioStefanini.Domain.csproj", "{FCEB6065-F8A6-4D4B-94D3-47EFA0A2055E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioStefanini.Infra.Data", "DesafioStafanini.Infra.Data\DesafioStefanini.Infra.Data.csproj", "{FECADD70-D8C0-4310-B09A-9D16028DFFE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioStefanini.Infra.Ioc", "DesafioStefanini.Infra.Ioc\DesafioStefanini.Infra.Ioc.csproj", "{8C51D228-71CE-4651-B531-53A41AE3BE6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75FE57AC-DD23-4C9C-91CB-411004DF980F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FE57AC-DD23-4C9C-91CB-411004DF980F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FE57AC-DD23-4C9C-91CB-411004DF980F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FE57AC-DD23-4C9C-91CB-411004DF980F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A11C69A-0B7A-42E7-9942-86F7F8F46C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A11C69A-0B7A-42E7-9942-86F7F8F46C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A11C69A-0B7A-42E7-9942-86F7F8F46C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A11C69A-0B7A-42E7-9942-86F7F8F46C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEB6065-F8A6-4D4B-94D3-47EFA0A2055E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEB6065-F8A6-4D4B-94D3-47EFA0A2055E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEB6065-F8A6-4D4B-94D3-47EFA0A2055E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEB6065-F8A6-4D4B-94D3-47EFA0A2055E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECADD70-D8C0-4310-B09A-9D16028DFFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECADD70-D8C0-4310-B09A-9D16028DFFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECADD70-D8C0-4310-B09A-9D16028DFFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECADD70-D8C0-4310-B09A-9D16028DFFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C51D228-71CE-4651-B531-53A41AE3BE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C51D228-71CE-4651-B531-53A41AE3BE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C51D228-71CE-4651-B531-53A41AE3BE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C51D228-71CE-4651-B531-53A41AE3BE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E1ABC3-AF04-428A-966A-7EA27EE36F8F}
+	EndGlobalSection
+EndGlobal

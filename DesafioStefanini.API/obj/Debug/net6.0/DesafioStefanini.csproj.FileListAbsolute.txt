@@ -1,0 +1,6 @@
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini\obj\Debug\net6.0\DesafioStefanini.csproj.AssemblyReference.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini\obj\Debug\net6.0\DesafioStefanini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini\obj\Debug\net6.0\DesafioStefanini.AssemblyInfoInputs.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini\obj\Debug\net6.0\DesafioStefanini.AssemblyInfo.cs
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini\obj\Debug\net6.0\DesafioStefanini.csproj.CoreCompileInputs.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStefanini\obj\Debug\net6.0\DesafioStefanini.MvcApplicationPartsAssemblyInfo.cache

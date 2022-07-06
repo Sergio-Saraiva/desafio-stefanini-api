@@ -1,0 +1,17 @@
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\bin\Debug\net6.0\DesafioStefanini.Infra.Data.deps.json
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\bin\Debug\net6.0\DesafioStefanini.Infra.Data.runtimeconfig.json
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\bin\Debug\net6.0\DesafioStefanini.Infra.Data.dll
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\bin\Debug\net6.0\DesafioStefanini.Infra.Data.pdb
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\bin\Debug\net6.0\DesafioStefanini.Domain.dll
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\bin\Debug\net6.0\DesafioStefanini.Domain.pdb
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.AssemblyInfo.cs
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.csproj.CopyComplete
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.dll
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\refint\DesafioStefanini.Infra.Data.dll
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.pdb
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\DesafioStefanini.Infra.Data.genruntimeconfig.cache
+C:\Users\sergio_saraiva\projects\DesafioStefanini\DesafioStafanini.Infra.Data\obj\Debug\net6.0\ref\DesafioStefanini.Infra.Data.dll
